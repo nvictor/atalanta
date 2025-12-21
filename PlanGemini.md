@@ -63,7 +63,7 @@ Mark progress with: `[ ]` (Todo), `[/]` (In Progress), `[x]` (Done).
 | **1** | **Artemis** | 88 | Powerful, Epic | `[ ]` | 1. Foundation |
 | **2** | **Atalanta** | 148 | Melancholic, Fast | `[ ]` | 1. Foundation |
 | **3** | **Abandoned I** | 68 | Sad, Hopeful | `[ ]` | 1. Foundation |
-| **4** | **Abandoned II** | TBD | Anger, Heavy | `[ ]` | 1. Foundation |
+| **4** | **Abandoned II** | 80 | Anger, Heavy | `[ ]` | 1. Foundation |
 | **5** | **Arcadia** | 120 | Happy, Dance | `[ ]` | 1. Foundation |
 | **6** | **Adventure** | 108 | Hope, Drive | `[ ]` | 1. Foundation |
 | **7** | **Attack** | 144 | Chaotic | `[ ]` | 1. Foundation |

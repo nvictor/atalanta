@@ -124,8 +124,8 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 ### Abandoned II
 
 **Mood:** Sadness, Anger  
-**Signature:** X/X  
-**Tempo:** XXX BPM  
+**Signature:** 4/4  
+**Tempo:** 80 BPM  
 **Groove:** Heavy metal
 
 **Inspirations:**
