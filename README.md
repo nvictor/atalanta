@@ -69,8 +69,9 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 **Inspirations:**
 - Cranberries - Zombie
 - Steve Vai - Midway Creatures
+- Twenty One Pilots - No Chances
+- "The Power" riff as Artemis calling riff
 - Daniel Balavoine - La Femme Veuve Qui S'Éveille
-- Twenty One Pilots - No Chances ("the power" riff as Artemis calling riff)
 
 ---
 
