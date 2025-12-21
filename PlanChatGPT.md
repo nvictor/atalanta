@@ -118,6 +118,7 @@ To reduce tone‑chasing and arrangement paralysis:
 
 - **Clean guitar** → memory, innocence
 - **Distorted guitar** → conflict, will
+- **Rhythm gyitar** → motion, grounding
 - **Bass** → inevitability, grounding force
 - **Drums** → environment and motion, not virtuosity
 
