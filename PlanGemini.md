@@ -2,6 +2,10 @@
 
 **Objective:** Eliminate friction. Force progress. Complete the album.
 
+**Global Constraints:**
+1.  **Key:** All tracks are in **A Minor**.
+2.  **Theme:** All tracks start with **A**.
+
 ---
 
 ## 1. The Friction-Killing Workflow

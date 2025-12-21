@@ -28,6 +28,10 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 
 ---
 
+## Global Constraints
+- **Key:** A Minor (All tracks)
+- **Theme:** The Letter 'A' (All track titles begin with A)
+
 ## The Tracks
 
 ### Abandoned I

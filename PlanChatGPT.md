@@ -18,6 +18,11 @@ Every track must support **transformation**. Tracks that do not clearly advance 
 
 The album is organized into four acts. This structure should not change once locked.
 
+### 1.3 Global Constraints
+
+- **Key Center:** Every track must be in **A Minor**.
+- **Naming:** Every track title must start with the letter **A** (e.g., Artemis, Atalanta).
+
 **Act I – Origin (Identity Without Choice)**  
 Abandonment → Adoption → Protection
 

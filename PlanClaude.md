@@ -22,6 +22,10 @@ An instrumental rock album telling the Greek myth of Atalanta through 8 tracks.
 
 ## 💡 Notes & Ideas
 
+### Global Constraints
+- **Key Center:** All tracks in A Minor.
+- **The Letter 'A':** A playful constraint binding the album's identity (All titles start with A).
+
 ### Musical Themes
 - **Artemis theme:** Powerful calling riff (appears in tracks 2, 8)
 - **Atalanta theme:** Emotional, searching melody (tracks 1, 6, 8)
