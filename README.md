@@ -30,7 +30,7 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 
 ## The Tracks
 
-### Abandoned
+### Abandoned I
 
 **Mood:** Sad, Hopeful  
 **Signature:** 6/8  
@@ -117,7 +117,7 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 
 ---
 
-### (Abandoned) Again
+### Abandoned II
 
 **Mood:** Sadness, Anger  
 **Signature:** X/X  

@@ -1,4 +1,4 @@
-# Atalanta — Album Structure & Execution Plan
+# Atalanta — Album Structure & Execution Plan (ChatGPT)
 
 This document converts the structural recommendations into a clear, executable reference you can return to during writing sessions. Its purpose is to reduce friction, constrain decisions, and maintain narrative cohesion.
 
