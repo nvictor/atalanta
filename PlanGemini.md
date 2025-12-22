@@ -33,7 +33,7 @@ To avoid getting stuck, follow this **4-Step Cycle** for every track. Do not jum
 *   **Goal:** Lock in the harmonic and rhythmic bed.
 *   **Instruments:** Bass OR Rhythm Guitar (flexible order).
 *   **Rules:**
-    *   **Bass:** Lock in with the EZDrummer kick.
+    *   **Bass:** Lock in with the EZDrummer kick OR use the chord progression (if available) to guide the line.
     *   **Rhythm:** Lay down the chord progression and heavy riffs.
     *   Choose whichever inspires you first, but finish both before moving on.
     *   *Definition of Done:* The track sounds like a solid instrumental backing track. It makes you nod your head.
