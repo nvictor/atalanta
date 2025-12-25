@@ -31,12 +31,12 @@ To avoid getting stuck, follow this **4-Step Cycle** for every track. Do not jum
 
 ### Phase 2: The Core (Rhythm & Low End)
 *   **Goal:** Lock in the harmonic and rhythmic bed.
-*   **Instruments:** Bass OR Rhythm Guitar (flexible order).
+*   **Tools:** EZBass + Rhythm Guitar chain.
 *   **Rules:**
-    *   **Bass:** Lock in with the EZDrummer kick OR use the chord progression (if available) to guide the line.
-    *   **Rhythm:** Lay down the chord progression and heavy riffs.
-    *   Choose whichever inspires you first, but finish both before moving on.
-    *   *Definition of Done:* The track sounds like a solid instrumental backing track. It makes you nod your head.
+    *   **Drum export pass:** After Phase 1, bounce every song part (intro, verse, pre-chorus, chorus, bridge/solo, fills, outro) from EZDrummer as separate MIDI clips so EZBass knows the exact groove.
+    *   **Bass:** Import those clips into EZBass, audition/derive the matching bass patterns per section, and tweak articulations until the bass part locks to the printed drums.
+    *   **Rhythm:** Track rhythm guitars against either the printed drums or the committed EZBass part—your choice of order—but both instruments must be finished before moving to Phase 3.
+    *   *Definition of Done:* Bass + rhythm guitars play through end-to-end and feel like a solid instrumental backing track that makes you nod your head.
 
 ### Phase 3: The Voice (Melody & Lead)
 *   **Goal:** The main themes and emotional delivery.
