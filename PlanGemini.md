@@ -18,6 +18,7 @@ To avoid getting stuck, follow this **4-Step Cycle** for every track. Do not jum
 *   **Rules:**
     *   Browse EZDrummer grooves to find the "pulse" of the track.
     *   Drag and drop blocks to build the entire arrangement (Intro -> Verse -> Chorus...).
+    *   After the groove clicks, drag each section into the file explorer, rename it, and keep the parts handy so importing into EZbass is fast later.
     *   *Definition of Done:* The drum track is complete from start to finish. You can "hear" the song just by listening to the drums.
 
 #### Song Parts in EZDrummer
@@ -31,11 +32,11 @@ To avoid getting stuck, follow this **4-Step Cycle** for every track. Do not jum
 
 ### Phase 2: The Core (Rhythm & Low End)
 *   **Goal:** Lock in the harmonic and rhythmic bed.
-*   **Tools:** EZBass + Rhythm Guitar chain.
+*   **Tools:** EZbass + Rhythm Guitar chain.
 *   **Rules:**
-    *   **Drum export pass:** After Phase 1, bounce every song part (intro, verse, pre-chorus, chorus, bridge/solo, fills, outro) from EZDrummer as separate MIDI clips so EZBass knows the exact groove.
-    *   **Bass:** Import those clips into EZBass, audition/derive the matching bass patterns per section, and tweak articulations until the bass part locks to the printed drums.
-    *   **Rhythm:** Track rhythm guitars against either the printed drums or the committed EZBass part—your choice of order—but both instruments must be finished before moving to Phase 3.
+    *   **Drum export pass:** After Phase 1, bounce every song part (intro, verse, pre-chorus, chorus, bridge/solo, fills, outro) from EZDrummer as separate MIDI clips so EZbass knows the exact groove.
+    *   **Bass:** Import those clips into EZbass, audition/derive the matching bass patterns per section, and tweak articulations until the bass part locks to the printed drums.
+    *   **Rhythm:** Track rhythm guitars against either the printed drums or the committed EZbass part—your choice of order—but both instruments must be finished before moving to Phase 3.
     *   *Definition of Done:* Bass + rhythm guitars play through end-to-end and feel like a solid instrumental backing track that makes you nod your head.
 
 ### Phase 3: The Voice (Melody & Lead)
