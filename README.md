@@ -72,6 +72,7 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 - Twenty One Pilots - No Chances
 - "The Power" riff as Artemis calling riff
 - Daniel Balavoine - La Femme Veuve Qui S'Éveille
+- Yngwie Malmsteen - Black Star
 
 ---
 
