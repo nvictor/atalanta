@@ -71,7 +71,7 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 - Daniel Balavoine - La Femme Veuve Qui S'Éveille (groove)
 - Cranberries - Zombie (chord progression)
 - Steve Vai - Midway Creatures (rhythm)
-- "The Power" riff as Artemis calling riff (riff)
+- Snap! - The Power (riff as Artemis calling riff
 - Yngwie Malmsteen - Black Star (rhythm)
 
 ---
