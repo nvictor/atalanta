@@ -1,11 +1,13 @@
 # Atalanta — Unified Creative Brief
 
+This is the binding ruleset for the project—keep it open whenever you write, arrange, or mix so every decision points back to the same myth and emotional arc.
+
 ## 1. Purpose & Narrative Spine
 - Instrumental rock concept album tracing a woman’s journey from abandonment to freedom through exile, conflict, and transcendence.
-- One-sentence framing stays visible for every track decision.
+- The single-sentence framing stays pinned in view for every track decision.
 
 ## 2. Global Album Constraints
-- **Key Center:** every track in A minor.
+- **Key center:** every track in A minor.
 - **Titles:** each track name begins with “A”; album title is fixed as *Atalanta*.
 - **Mood tags:** ≤3 adjectives per track.
 - **Groove:** exactly one descriptor per track.
@@ -16,8 +18,8 @@
 - **Freedom theme:** perpetual-motion climax of “Atalanta”.
 
 ## 4. Track Execution Template
-- One primary riff, one secondary motif, one texture change, one emotional turn per track.
-- Track is “done” only when structure and motifs are final and the arrangement performs start-to-finish without interruption.
+- Each track commits to: one primary riff, one secondary motif, one texture change, one emotional turn.
+- A track is “done” only when structure and motifs are final and the arrangement performs start-to-finish without interruption.
 
 ## 5. Instrument Role Locks
 - Clean guitar = memory/innocence.
@@ -42,7 +44,7 @@
 
 ## 7. Section Behavior
 - **Verse:** slower grid (≤16ths), longer holds, descending/static bias, phrases resolve to 1 or 5, minimal reusable cells. Emotion: grounding and narrative.
-- **Chorus:** faster grid (32nds), short repeating 4–6 note cells, energy via rhythmic push not range, conservative pitch set, deliberate repetition. Emotion: urgent, ritualistic drive.
+- **Chorus:** faster grid (≤32nds), short repeating 4–6 note cells, energy via rhythmic push—not range—conservative pitch set, deliberate repetition. Emotion: urgent, ritualistic drive.
 
 ## 8. Cell-Based Composition
 - Build melodies from small reusable cells (e.g., 1 → 2 → ♭3 → hold → 4 → 1).
