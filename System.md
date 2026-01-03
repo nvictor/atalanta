@@ -26,7 +26,7 @@ Choose **one base rhythmic unit**:
 - 2 bars → strumming, grooves (**recommended default**)
 - 4 bars → only if musically necessary
 
-**Rule:**  
+**Rule:**
 All sections must be derivable from this unit.
 
 Example:
@@ -40,7 +40,7 @@ Example:
 
 Create one MIDI region:
 
-**Name:**  
+**Name:**
 `GTR – Base – 2bar`
 
 **Characteristics:**
@@ -110,7 +110,7 @@ Goal: contrast via offset or reduction.
 
 Use a **Summing Track Stack**:
 
-**Parent:**  
+**Parent:**
 `GTR – Rhythm Engine`
 
 **Child tracks:**
@@ -142,7 +142,7 @@ Rules:
 
 Save as a Logic Template:
 
-**Name:**  
+**Name:**
 `Guitar – Pattern Engine`
 
 Include:
