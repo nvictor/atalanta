@@ -1,4 +1,4 @@
-# Atalanta — Concept & Tracks
+# Concept & Tracks
 
 ## The Story
 
@@ -22,11 +22,9 @@ They got married but forgot to show any gratitude to Aphrodite. So she cursed th
 
 Atalanta was free at last. She would often stop on her track to let her goddess mother, Artemis, pet her.
 
-### Atalanta Narrative Summarized
+### Narrative Summarized
 
 Atalanta was abandoned by her father for being born a girl. A mother bear raised her until Artemis, goddess of the wilderness, took her to Arcadia and trained her as a huntress. Atalanta joined the Argonauts, but when she returned pregnant, Artemis banished her from Arcadia. She later reunited with Hippomenes, who won her in a foot race with the help of Aphrodite's golden apples. They married but angered the gods, leading to their transformation into lions, forever running. Despite this, Atalanta found freedom and occasional comfort from Artemis.
-
----
 
 ## Global Constraints
 - **Key:** A Minor (All tracks)
@@ -36,9 +34,9 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 
 ### Abandoned I
 
-**Mood:** Sad, Hopeful  
-**Signature:** 6/8  
-**Tempo:** 68 BPM  
+**Mood:** Sad, Hopeful
+**Signature:** 6/8
+**Tempo:** 68 BPM
 **Groove:** Emotional ballad
 
 **Instruments:**
@@ -54,16 +52,11 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 - Buckethead - Angel Monster
 - Brandon Lake - Hard Fought Hallelujah
 
-**Ideas:**
-- Chord strums on first and 3 beats
-
----
-
 ### Artemis
 
-**Mood:** Powerful, Epic  
-**Signature:** 4/4  
-**Tempo:** 88 BPM  
+**Mood:** Powerful, Epic
+**Signature:** 4/4
+**Tempo:** 88 BPM
 **Groove:** Powerful ballad
 
 **Inspirations:**
@@ -71,29 +64,25 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 - Daniel Balavoine - La Femme Veuve Qui S'Éveille (groove)
 - Cranberries - Zombie (chord progression)
 - Steve Vai - Midway Creatures (rhythm)
-- Snap! - The Power (riff as Artemis calling riff
+- Snap! - The Power (Artemis calling riff)
 - Yngwie Malmsteen - Black Star (rhythm)
-
----
 
 ### Arcadia
 
-**Mood:** Happy, Dance  
-**Signature:** 4/4  
-**Tempo:** 120 BPM  
+**Mood:** Happy, Dance
+**Signature:** 4/4
+**Tempo:** 123 BPM
 **Groove:** Dance
 
 **Inspirations:**
 - OneRepublic - Counting Stars
 - Train - Drive By
 
----
-
 ### Adventure
 
-**Mood:** Adventure, Departure, Hope  
-**Signature:** 4/4  
-**Tempo:** 108 BPM  
+**Mood:** Adventure, Departure, Hope
+**Signature:** 4/4
+**Tempo:** 108 BPM
 **Groove:** Melancholic ballad
 
 **Inspirations:**
@@ -105,13 +94,11 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 - Gary Hoey - Soul Surfer
 - Eye of the Tiger - Riff
 
----
-
 ### Attack
 
-**Mood:** Confused, Chaotic  
-**Signature:** 4/4 / 12/8  
-**Tempo:** 144 BPM  
+**Mood:** Chaotic, Confused
+**Signature:** 4/4 or 12/8
+**Tempo:** 144 BPM
 **Groove:** Drum-heavy
 
 **Inspirations:**
@@ -121,13 +108,11 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 - Joe Stump - The Dance of Kashani
 - Joe Stump - Battle Tested
 
----
-
 ### Abandoned II
 
-**Mood:** Sadness, Anger  
-**Signature:** 4/4  
-**Tempo:** 80 BPM  
+**Mood:** Sadness, Anger
+**Signature:** 4/4
+**Tempo:** 80 BPM?
 **Groove:** Heavy metal
 
 **Inspirations:**
@@ -137,13 +122,11 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 - Buckethead - Soothsayer
 - Vinnie Moore - A Million Miles Gone
 
----
-
 ### Artifice
 
-**Mood:** Exciting, Uplifting  
-**Signature:** 4/4  
-**Tempo:** 140 BPM  
+**Mood:** Exciting, Uplifting
+**Signature:** 4/4
+**Tempo:** 140 BPM
 **Groove:** Pop rock
 
 **Inspirations:**
@@ -152,13 +135,11 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 - Rise Against - Behind Closed Doors
 - Andy Timmons Band - Between Brothers
 
----
-
 ### Atalanta
 
-**Mood:** Slow, Melancholic  
-**Signature:** 4/4  
-**Tempo:** 148 BPM  
+**Mood:** Slow, Melancholic
+**Signature:** 4/4
+**Tempo:** 148 BPM
 **Groove:** Emotional ballad
 
 **Inspirations:**
