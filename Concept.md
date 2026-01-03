@@ -113,7 +113,7 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 **Mood:** Sadness, Anger
 **Signature:** 4/4
 **Tempo:** 80 BPM?
-**Groove:** Heavy metal
+**Groove:** Heavy metal, Doom metal
 
 **Inspirations:**
 - Three Days Grace - Pain
