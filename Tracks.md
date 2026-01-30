@@ -32,7 +32,7 @@
 - Daniel Balavoine - La Femme Veuve Qui S'Éveille (groove)
 - Cranberries - Zombie (chord progression)
 - Steve Vai - Midway Creatures (rhythm)
-- Snap! - The Power (Artemis calling riff)
+- Snap! - The Power (rhythm)
 - Yngwie Malmsteen - Black Star (rhythm)
 
 ## Arcadia
