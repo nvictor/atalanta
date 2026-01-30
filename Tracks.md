@@ -22,7 +22,7 @@
 
 - **Mood:** Powerful, Epic
 - **Signature:** 4/4
-- **Tempo:** 88 BPM
+- **Tempo:** 80 BPM
 - **Groove:** Powerful ballad
 - **Inspirations:**
     - Twenty One Pilots - No Chances (arrangement)
