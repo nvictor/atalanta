@@ -31,6 +31,7 @@
     - Steve Vai - Midway Creatures (rhythm)
     - Snap! - The Power (rhythm)
     - Yngwie Malmsteen - Black Star (rhythm)
+    - Rooftops - Jesus Culture feat. Kim Walker-Smith
 
 ## Arcadia
 
