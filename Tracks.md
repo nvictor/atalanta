@@ -26,6 +26,8 @@
 - **Groove:** Powerful ballad
 - **Inspirations:**
     - Twenty One Pilots - No Chances (arrangement)
+    - Matt Gray - Last Ninja 2 - Street Loader - (rhythm)
+    - Brandon Lake - Count'em (rhythm)
     - Daniel Balavoine - La Femme Veuve Qui S'Éveille (groove)
     - Cranberries - Zombie (chord progression)
     - Steve Vai - Midway Creatures (rhythm)
