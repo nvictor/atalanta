@@ -28,12 +28,8 @@
     - Twenty One Pilots - No Chances (arrangement)
     - Matt Gray - Last Ninja 2 - Street Loader - (rhythm)
     - Brandon Lake - Count'em (rhythm)
-    - Daniel Balavoine - La Femme Veuve Qui S'Éveille (groove)
-    - Cranberries - Zombie (chord progression)
-    - Steve Vai - Midway Creatures (rhythm)
     - Snap! - The Power (rhythm)
-    - Yngwie Malmsteen - Black Star (rhythm)
-    - Rooftops - Jesus Culture feat. Kim Walker-Smith
+    - Rooftops - Jesus Culture feat. Kim Walker-Smith (groove)
 
 ## Arcadia
 
