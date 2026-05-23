@@ -175,10 +175,8 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 
 #### GUS: Groove Sketches
 
-- **Main groove:** `P3 A↓ S`
-- **Secondary groove:** `P4 A↓ C<`
-
-These are working groove notes. The main idea is a downbeat-anchored three-pulse feel; the secondary idea suggests a four-pulse downbeat-anchored feel with a closing or anticipatory gesture.
+- **Main groove:** `P4 A↓ S(3)<>`
+- **Secondary groove:** `P4 A↓ U(4)`
 
 #### HAL: Harmonic Architecture
 
