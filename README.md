@@ -18,7 +18,7 @@ No one, including the other gods, dared to enter Arcadia. But a man, Hippomenes,
 
 When the time came, Artemis sent her champion on a journey with the Argonauts. She warned Atalanta to never marry a man, and to never forget everything she had taught her.
 
-They began their adventure: on sea, on land, to great palaces and great kingdoms, against great warriors and against gods. The Argonauts came back victorious. And Atalanta came back pregnant.
+They began their adventure: on sea, on land, to great palaces and great kingdoms, against great warriors and against the gods. The Argonauts came back victorious, and Atalanta came back pregnant.
 
 Artemis would not let her set foot in Arcadia. Atalanta had not broken her vow not to marry a man, but she had broken with the Arcadian way of life.
 
@@ -32,7 +32,7 @@ They married, but forgot to show gratitude to Aphrodite. So she cursed them. In 
 
 Atalanta was free at last. She would often stop on her track to let Artemis, her goddess mother, pet her.
 
-## Narrative Summary
+## Shorter Story 
 
 Atalanta was abandoned by her father for being born a girl. A mother bear raised her until Artemis, goddess of the wilderness, took her to Arcadia and trained her as a huntress. Atalanta joined the Argonauts, but when she returned pregnant, Artemis banished her from Arcadia. She later reunited with Hippomenes, who won her in a foot race with the help of Aphrodite's golden apples. They married but angered the gods, leading to their transformation into lions, forever running. Despite this, Atalanta found freedom and occasional comfort from Artemis.
 
@@ -45,6 +45,7 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 
 - **Artemis theme:** Powerful calling riff anchoring "Artemis" and "Atalanta".
 - **Atalanta theme:** Emotional, searching line used in "Abandoned I", "Abandoned II", and "Atalanta".
+- **Adventure and battle theme:** Emotional chaos interspersed with "Atalanta" theme.
 - **Freedom theme:** Perpetual-motion climax of "Atalanta".
 
 ## Instrument Roles
@@ -170,6 +171,8 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
   - Joe Satriani - "Until We Say Goodbye"
 
 ## Composition Notes
+
+These use my own notations: [gus](https://github.com/nvictor/gus), [mel](https://github.com/nvictor/mel), and [hal](https://github.com/nvictor/hal)
 
 ### Artemis
 
