@@ -181,20 +181,25 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 #### HAL: Harmonic Architecture
 
 ```text
-Intro: =Am (Am = Am)
+Intro: =Am (Am)
 Verse: ⇄Am (Am ⇄ F → C → G)
-Build: ↗Am (F → G → G)
+Build: ↗Am (F → G = G)
 Chorus: ↗Am (C → Dm → Am↓)
 Bridge: →E (Am → E)
-Outro: =Am (Am = Am)
+Outro: =Am (Am)
 ```
 
 #### MEL: Motif Sketches
 
 ```text
-Motif 1: [5 5 1↑] [Θ? Θ←!]
-Motif 2: [1 ♭3 5 ♭7] [Θ? Θ>!]
-Motif 3: [5 1↑ ♭7 5] [Θ? Θ'~]
+A : [5 5 1↑]
+B : [1 b3 5 b7]
+C : [5 1↑ b7 5]
+C' : [5 1↑ b7 1↑]
+
+[A? A←!]
+[B? B>!]
+[C? C'~]
 ```
 
 #### Chorus
