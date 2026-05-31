@@ -43,10 +43,26 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 
 ## Thematic Motifs
 
-- **Artemis theme:** Powerful calling riff anchoring "Artemis" and "Atalanta".
-- **Atalanta theme:** Emotional, searching line used in "Abandoned I", "Abandoned II", and "Atalanta".
-- **Adventure and battle theme:** Emotional chaos interspersed with "Atalanta" theme.
-- **Freedom theme:** Perpetual-motion climax of "Atalanta".
+### Artemis theme
+
+Powerful calling riff anchoring "Artemis" and "Atalanta".
+
+### Atalanta theme
+
+Emotional, searching line used in:
+- Abandoned I (fragile)
+- Artemis (confident)
+- Adventure (heroic)
+- Abandoned II (broken)
+- Atalanta (transformed)
+
+### Adventure and battle theme
+
+Emotional chaos interspersed with "Atalanta" theme.
+
+### Freedom theme
+
+Perpetual-motion climax of "Atalanta".
 
 ## Instrument Roles
 
@@ -60,7 +76,7 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 
 ### Abandoned I
 
-- **Mood:** Sad, hopeful.
+- **Mood:** Sad, hopeful. (Grief before language).
 - **Signature:** 6/8.
 - **Tempo:** 68 BPM.
 - **Groove:** Emotional ballad.
@@ -83,12 +99,11 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 - **Tempo:** 80 BPM.
 - **Groove:** Powerful ballad.
 - **Inspirations:**
-  - Twenty One Pilots - "No Chances" (arrangement)
+  - Jesus Culture feat. Kim Walker-Smith - "Rooftops" (groove)
   - 10 Years - "Wasteland" (rhythm)
   - Matt Gray - "Last Ninja 2: Street Loader" (rhythm)
   - Brandon Lake - "Count 'Em" (rhythm)
   - Snap! - "The Power" (rhythm)
-  - Jesus Culture feat. Kim Walker-Smith - "Rooftops" (groove)
 
 ### Arcadia
 
@@ -130,7 +145,7 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
 
 ### Abandoned II
 
-- **Mood:** Sadness, anger.
+- **Mood:** Sadness, anger. (Grief after betrayal).
 - **Signature:** 4/4.
 - **Tempo:** 80 BPM?
 - **Groove:** Heavy metal, doom metal.
@@ -170,6 +185,16 @@ Atalanta was abandoned by her father for being born a girl. A mother bear raised
   - Joe Stump - "Strat Sorcery"
   - Joe Satriani - "Until We Say Goodbye"
 
+### Rules
+
+#### Bass
+
+Bass becomes more dominant as fate closes in.
+
+#### Transformation
+
+When themes return they are transformed. For example, every time the Atalanta theme returns, it could gain more distortion, wider intervals, higher register, or more rhythmic momentum.
+
 ## Composition Notes
 
 These use my own notations: [gus](https://github.com/nvictor/gus), [mel](https://github.com/nvictor/mel), and [hal](https://github.com/nvictor/hal)
@@ -178,35 +203,21 @@ These use my own notations: [gus](https://github.com/nvictor/gus), [mel](https:/
 
 #### GUS: Groove Sketches
 
-- **Main groove:** `P4 A↓ S(3)<>`
-- **Secondary groove:** `P4 A↓ U(4)`
-
-#### HAL: Harmonic Architecture
-
-```text
-Intro: =Am (Am)
-Verse: ⇄Am (Am ⇄ F → C → G)
-Build: ↗Am (F → G = G)
-Chorus: ↗Am (C → Dm → Am↓)
-Bridge: →E (Am → E)
-Outro: =Am (Am)
-```
+- **Main:** `P4 A↓ S(3)<>`
+- **Main (busier):** `P4 A↓ N(3)<> N(4)<`
+- **Secondary:** `P4 A↓ U(4)`
+- **Rhythm Guitar:** `P16 A↓`
 
 #### MEL: Motif Sketches
 
-```text
-A : [5 5 1↑]
-B : [1 b3 5 b7]
-C : [5 1↑ b7 5]
-C' : [5 1↑ b7 1↑]
+#### HAL: Harmonic Architecture
 
-[A? A←!]
-[B? B>!]
-[C? C'~]
-```
+### Abandonned II
 
-#### Chorus
+#### Prosody
 
-```text
-Chorus: ↗Am (C → Dm → Am↓)
-```
+Parents, gone.
+Arcadia, gone.
+Artemis, gone.
+
+That's devastating.
