@@ -98,12 +98,16 @@ Perpetual-motion climax of "Atalanta".
 - **Signature:** 4/4.
 - **Tempo:** 80 BPM.
 - **Groove:** Powerful ballad.
+- **Instruments:**
+  - Clean electric guitar (will join distorted).
+  - Distorted electric guitar (will be doubled).
+  - Bass.
+  - Drums.
 - **Inspirations:**
   - Jesus Culture feat. Kim Walker-Smith - "Rooftops" (groove)
   - 10 Years - "Wasteland" (rhythm)
   - Matt Gray - "Last Ninja 2: Street Loader" (rhythm)
   - Brandon Lake - "Count 'Em" (rhythm)
-  - Snap! - "The Power" (rhythm)
 
 ### Arcadia
 
@@ -206,6 +210,7 @@ These use my own notations: [gus](https://github.com/nvictor/gus), [mel](https:/
 - **Main:** `P4 A↓ S(3)<>`
 - **Main (busier):** `P4 A↓ N(3)<> N(4)<`
 - **Secondary:** `P4 A↓ U(4)`
+- **Secondary (variation):** `P4 A↓ U(2)`
 - **Rhythm Guitar:** `P16 A↓`
 
 #### MEL: Motif Sketches
